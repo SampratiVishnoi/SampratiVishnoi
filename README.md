@@ -36,7 +36,7 @@
 ✔ No matter what happens I try to do atleast one code in a day <br>
 ✔ I've previously tried my hands on Android Development aswell as Web Development <br>
 ✔ I scroll LinkedIn way too much (more than Instagram)💁‍♀️<br>
-✔ You can reach me at <a href="samprativishnoi@gmail.com"><b>samprativishnoi@gmail.com</b></a><br>
+✔ You can shoot me an email at <a href="samprativishnoi@gmail.com"><b>samprativishnoi@gmail.com</b></a>. I'll try to respond as soon as I can.<br>
 ✔ Ask me about **C++, DSA, Android, Flutter, JAVA, Bootstrap and guitar chords**!😉<br>
 ✔ Fun fact : ***Taylor Swift** is the reason why I started playing guitar❤️‍*<br><br><br><br>
  
