@@ -25,8 +25,11 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> 
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SampratiVishnoi&label=Profile%20views&color=0e75b6&style=flat" alt="SampratiVishnoi" /> </p>
-<img align="right" width=250px alt="Unicorn" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+<img align="right" width=270px alt="Unicorn" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+[![Linkedin: Samprati](https://img.shields.io/badge/-Samprati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samprati-vishnoi-3716871a1/)](https://www.linkedin.com/in/samprati-vishnoi-3716871a1/)![GitHub followers](https://img.shields.io/github/followers/SampratiVishnoi?label=Follow&style=social)
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=SampratiVishnoi&color=brightgreen">  
 
 👩***Talking about Personal Stuffs...***
 
@@ -57,26 +60,26 @@
 🔧***Languages & Tools I Know...***
 <p align="left">
   
-  <code><img height="30" src="[https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/c.svg](https://www.flaticon.com/free-icon/c_6132222)"></code>
-   <code><img height="30" src="[https://www.java.com/en/](https://www.flaticon.com/free-icon/java_226777)"></code>
-    <code><img height="30" src="https://www.flaticon.com/free-icon/letter-c_3665923"></code>
+  <code><img height="30" src="https://www.w3schools.com/cpp/"></code>
+   <code><img height="30" src="https://www.java.com/"></code>
+    <code><img height="30" src="https://www.cprogramming.com/"></code>
   <code> <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/androidstudio.svg"> </code>
   <code> <img height="30" src="[https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/figma.svg](https://www.flaticon.com/free-icon/figma_8532714)
 "> </code>
  <code> <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/canva.svg
 "> </code>
-<code> <img height="30" src="[https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/html5.svg](https://www.flaticon.com/free-icon/html-5_919827)
+<code> <img height="30" src="https://www.w3.org/html/
 "> </code>
  <code> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
- <code> <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/bootstrap.svg"> </code>
+ <code> <img height="30" src="https://getbootstrap.com/"> </code>
  
-  <code> <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/flutter.svg
+  <code> <img height="30" src="https://flutter.dev/
 "> </code>
   <code> <img height="30" src="[https://github.com/uannabi/-/blob/master/resource/git.svg](https://www.flaticon.com/free-icon/git_4494740)"> </code>
-  <code> <img height="30" src="https://www.flaticon.com/free-icon/linux_226772"> </code>
+  <code> <img height="30" src="https://www.linux.org/"> </code>
   <code> <img height="30" src="https://www.flaticon.com/free-icon/json-file_136525
 "> </code>
-  <code> <img height="30" src="https://www.flaticon.com/free-icon/mysql_1199128
+  <code> <img height="30" src="https://www.mysql.com/
 "> </code>
   <code> <img height="30" src="https://github.com/uannabi/-/blob/master/resource/other/sqlite-ar21.svg"> </code>
  
