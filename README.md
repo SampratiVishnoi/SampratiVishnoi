@@ -60,28 +60,21 @@
 🔧***Languages & Tools I Know...***
 <p align="left">
   
-  <code><img height="30" src="https://www.w3schools.com/cpp/"></code>
-   <code><img height="30" src="https://www.java.com/"></code>
-    <code><img height="30" src="https://www.cprogramming.com/"></code>
+  <code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/cplusplus.svg"></code>
+   <code><img height="30" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+    <code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/c.svg"></code>
   <code> <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/androidstudio.svg"> </code>
-  <code> <img height="30" src="[https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/figma.svg](https://www.flaticon.com/free-icon/figma_8532714)
-"> </code>
- <code> <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/canva.svg
-"> </code>
-<code> <img height="30" src="https://www.w3.org/html/
-"> </code>
- <code> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
- <code> <img height="30" src="https://getbootstrap.com/"> </code>
+  <code> <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/figma.svg"> </code>
+ <code> <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/canva.svg"> </code>
+<code> <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/html5.svg"> </code>
+ <code> <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/css3.svg"> </code>
+ <code> <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/bootstrap.svg"> </code>
+ <code> <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/flutter.svg"> </code>
+  <code> <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/git.svg"> </code>
+  <code> <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/linux.svg"> </code>
+  <code> <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/json.svg"> </code>
+  <code> <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/mysql.svg"> </code>
  
-  <code> <img height="30" src="https://flutter.dev/
-"> </code>
-  <code> <img height="30" src="[https://github.com/uannabi/-/blob/master/resource/git.svg](https://www.flaticon.com/free-icon/git_4494740)"> </code>
-  <code> <img height="30" src="https://www.linux.org/"> </code>
-  <code> <img height="30" src="https://www.flaticon.com/free-icon/json-file_136525
-"> </code>
-  <code> <img height="30" src="https://www.mysql.com/
-"> </code>
-  <code> <img height="30" src="https://github.com/uannabi/-/blob/master/resource/other/sqlite-ar21.svg"> </code>
  
   
   
