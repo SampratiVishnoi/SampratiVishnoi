@@ -2,7 +2,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi👋<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,I'm Samprati Vishnoi</h1>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,I'm Samprati Vishnoi</h1>
 <h3 align="center">Incoming SWE Intern @Atlassian | Flutter Developer | Pre-Final year Computer Science Student</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/samprati-vishnoi-3716871a1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="samprativishnoi" height="30" width="40" /></a>
@@ -28,7 +28,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SampratiVishnoi&label=Profile%20views&color=0e75b6&style=flat" alt="SampratiVishnoi" /> </p>
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+👩***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***She/Her*** or ***TeamMaker***😉 <br>
 ✔ I’m an upcoming **SWE Intern** <a href="https://github.com/atlassian"> <b>@Atlassian</b></a>  <br>
@@ -38,15 +38,28 @@
 ✔ I scroll LinkedIn way too much (more than Instagram)💁‍♀️<br>
 ✔ You can shoot me an email at <a href="samprativishnoi@gmail.com"><b>samprativishnoi@gmail.com</b></a>. I'll try to respond as soon as I can.<br>
 ✔ Ask me about **C++, DSA, Android, Flutter, JAVA, Bootstrap and guitar chords**!😉<br>
-✔ Fun fact : ***Taylor Swift** is the reason why I started playing guitar❤️‍*<br><br><br><br>
+✔ Fun fact : ***Taylor Swift** is the reason why I started playing guitar❤️‍*<br><br>
  
+🏆***Achievements...***
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
+✔ Selected as one of the **60 mentees from all over India** for the **LinkedIn CoachIn Program 3.0** <br>
+✔ Harvard WECode’22 Scholar <br>
+✔ Selected for the **Code for Good Event** organized by **JPMorgan Chase & Co.** <br>
+✔ Founder and Chapter Lead <a href="https://www.linkedin.com/company/geeksforgeeks-bv-chapter/"><b>@GFGxBV Student Chapter</b></a>. <br>
+✔ Core Team Member <a href="https://www.linkedin.com/company/codechef-banasthali-university-campus-chapter/"><b>@CodeChef BV Chapter</b></a>. <br>
+✔ Team Team Lead <a href="https://www.linkedin.com/company/unstop-banasthali-vidyapith/"><b>@Unstop Igniters Club BV</b></a>. <br>
+✔ Secured a global rank of 1006 out of 11389 participants in Codechef April Lunchtime 2022 <br>
+✔ Rank 1688 out of 28000+ participants in Scaler CodeX 2.0 <br>
+✔ Solved 400+ questions on Leetcode <br>
+✔ Solved 100+ questions on GFG <br><br>
+
+
+🔧***Languages & Tools I Know...***
 <p align="left">
   
-  <code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/cplusplus.svg"></code>
+  <code><img height="30" src="[https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/c.svg](https://www.flaticon.com/free-icon/c_6132222)"></code>
    <code><img height="30" src="https://www.java.com/en/"></code>
-    <code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/c.svg"></code>
+    <code><img height="30" src="https://www.flaticon.com/free-icon/letter-c_3665923"></code>
   <code> <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/androidstudio.svg"> </code>
   <code> <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/figma.svg
 "> </code>
