@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,I'm Samprati Vishnoi</h1>
-<h3 align="center">Incoming SWE Intern @JPMorgan | Flutter Developer | Pre-Final year Computer Science Student</h3>
+<h3 align="center">Incoming SWE Intern @JPMorgan | Flutter Developer | Final year Computer Science Student</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/samprati-vishnoi-3716871a1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="samprativishnoi" height="30" width="40" /></a>
 <a href="https://twitter.com/SampratiVishnoi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/twitter.svg" alt="samprativishnoi" height="30" width="40" /></a>
