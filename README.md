@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/samprati-vishnoi-3716871a1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="samprativishnoi" height="30" width="40" /></a>
 <a href="https://twitter.com/SampratiVishnoi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/twitter.svg" alt="samprativishnoi" height="30" width="40" /></a>
-<a href="https://medium.com/@samprativishnoi" target="blank"><img align="center" src=" https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" alt="samprativishnoi" height="30" width="40" /></a> 
+<a href="https://medium.com/@samprativishnoi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" alt="samprativishnoi" height="30" width="40" /></a> 
 <a href="https://www.facebook.com/samprati.vishnoi.5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="samprati vishnoi" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_sam_viz_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/instagram.svg" alt="_sam_viz_" height="30" width="40" /></a>
 <a href = "mailto: samprativishnoi@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
@@ -18,7 +18,7 @@
 
 <p align="center">
   <em>
-    This is ME, Samprati Vishnoi, a <b>pre-final year</b> undergraduate from <a href="http://www.banasthali.org/banasthali/wcms/en/home/"> <b>Banasthali Vidyapith</b>, Jaipur, Rajasthan</a>. <br>
+    This is ME, Samprati Vishnoi, a <b>final year</b> undergraduate from <a href="http://www.banasthali.org/banasthali/wcms/en/home/"> <b>Banasthali Vidyapith</b>, Jaipur, Rajasthan</a>. <br>
     A budding <b>Flutter Developer</b> and a <b>problem solver</b> who enjoys working in a team collaborative-environment. <br>I have an interest in <b>coding and technology</b> and implementing solutions to solve <b>real- world problems.</b> <br>My <b>IKIGAI</b> is to have a positive impact on as many lives as possible with my<b> technical skills.</b>
    
    
@@ -48,22 +48,25 @@
 🏆***Achievements...***
 
 ✔ Selected as one of the **60 mentees from all over India** for the **LinkedIn CoachIn Program 3.0** <br>
+✔ Selected as one of the **202 mentees from out of 9700+** applicants for the **Flipkart Girls Wanna Code 4.0**<br>
 ✔ Harvard WECode’22 Scholar <br>
 ✔ Selected for the **Code for Good Event** organized by **JPMorgan Chase & Co.** <br>
 ✔ Founder and Chapter Lead <a href="https://www.linkedin.com/company/geeksforgeeks-bv-chapter/"><b>@GFGxBV Student Chapter</b></a>. <br>
 ✔ Core Team Member <a href="https://www.linkedin.com/company/codechef-banasthali-university-campus-chapter/"><b>@CodeChef BV Chapter</b></a>. <br>
 ✔ Technical Team Lead <a href="https://www.linkedin.com/company/unstop-banasthali-vidyapith/"><b>@Unstop Igniters Club BV</b></a>. <br>
-✔ Secured a global rank of 1006 out of 11389 participants in Codechef April Lunchtime 2022 <br>
+✔ Secured a global rank of **1006 out of 11389** participants in Codechef April Lunchtime 2022 <br>
 ✔ Rank 1688 out of 28000+ participants in Scaler CodeX 2.0 <br>
-✔ Solved 400+ questions on Leetcode <br>
-✔ Solved 100+ questions on GFG <br><br>
+✔ Solved **400+** questions on Leetcode <br>
+✔ Solved **100+** questions on GFG <br><br>
 
 
 🔧***Languages & Tools I Know...***
 <p align="left">
   
   <code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/cplusplus.svg"></code>
-   <code><img height="30" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ruby.svg"></code>
+  <code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rubyonrails.svg"></code>
+   <code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg"></code>
     <code><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/c.svg"></code>
   <code> <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/androidstudio.svg"> </code>
   <code> <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/figma.svg"> </code>
@@ -72,6 +75,7 @@
  <code> <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/css3.svg"> </code>
  <code> <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/bootstrap.svg"> </code>
  <code> <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/flutter.svg"> </code>
+  <code> <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/firebase.svg"> </code>
   <code> <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/git.svg"> </code>
   <code> <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/linux.svg"> </code>
   <code> <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/json.svg"> </code>
