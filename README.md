@@ -7,6 +7,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/samprati-vishnoi-3716871a1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="samprativishnoi" height="30" width="40" /></a>
 <a href="https://twitter.com/SampratiVishnoi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/twitter.svg" alt="samprativishnoi" height="30" width="40" /></a>
+<a href="https://medium.com/@samprativishnoi" target="blank"><img align="center" src=" https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" alt="samprativishnoi" height="30" width="40" /></a> 
 <a href="https://www.facebook.com/samprati.vishnoi.5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="samprati vishnoi" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_sam_viz_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/instagram.svg" alt="_sam_viz_" height="30" width="40" /></a>
 <a href = "mailto: samprativishnoi@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
