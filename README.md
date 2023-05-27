@@ -56,7 +56,7 @@
 ✔ Technical Team Lead <a href="https://www.linkedin.com/company/unstop-banasthali-vidyapith/"><b>@Unstop Igniters Club BV</b></a>. <br>
 ✔ Secured a global rank of **1006 out of 11389** participants in Codechef April Lunchtime 2022 <br>
 ✔ Rank **1688 out of 28000+** participants in Scaler CodeX 2.0 <br>
-✔ Solved **400+** questions on Leetcode <br>
+✔ Solved **500+** questions on Leetcode <br>
 ✔ Solved **100+** questions on GFG <br><br>
 
 
