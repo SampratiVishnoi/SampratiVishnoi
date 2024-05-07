@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,I'm Samprati Vishnoi</h1>
-<h3 align="center">Incoming SWE Intern @JPMorgan | Flutter Developer | Final year Computer Science Student</h3>
+<h3 align="center">Ex-SWE Intern @Atlassian | Ex-SWE Intern @Amazon | Final year Computer Science Student</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/samprati-vishnoi-3716871a1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="samprativishnoi" height="30" width="40" /></a>
 <a href="https://twitter.com/SampratiVishnoi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.2.0/icons/twitter.svg" alt="samprativishnoi" height="30" width="40" /></a>
@@ -36,7 +36,7 @@
 👩***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***She/Her*** or ***TeamMaker***😉 <br>
-✔ I’m an upcoming **SWE Intern** <a href="https://github.com/jpmorganchase"> <b>@JPMorgan</b></a>  <br>
+✔ I have interned @Amazon and @Atlassian**   <br>
 ✔ I’m currently learning **Flutter Development**<br>
 ✔ No matter what happens I try to do atleast one code in a day <br>
 ✔ I've previously tried my hands on Android Development aswell as Web Development <br>
@@ -50,6 +50,7 @@
 ✔ Selected as one of the **60 mentees from all over India** for the **LinkedIn CoachIn Program 3.0** <br>
 ✔ Selected as one of the **202 mentees from out of 9700+** applicants for the **Flipkart Girls Wanna Code 4.0**<br>
 ✔ Harvard WECode’22 Scholar <br>
+✔ Selected as MITACS Globalink Research Intern<br>
 ✔ Selected for the **Code for Good Event** organized by **JPMorgan Chase & Co.** <br>
 ✔ Founder and Chapter Lead <a href="https://www.linkedin.com/company/geeksforgeeks-bv-chapter/"><b>@GFGxBV Student Chapter</b></a>. <br>
 ✔ Core Team Member <a href="https://www.linkedin.com/company/codechef-banasthali-university-campus-chapter/"><b>@CodeChef BV Chapter</b></a>. <br>
